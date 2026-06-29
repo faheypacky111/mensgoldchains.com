@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mensgoldchains.com/sitemap.xml
