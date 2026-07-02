@@ -13,19 +13,19 @@
     if (choice === "granted" || choice === "denied") return;
     var css = document.createElement("style");
     css.textContent =
-      '#mgc-consent{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#17140d;color:#cfc6b2;' +
-      'border-top:1px solid #3a3324;padding:15px 20px;font-family:"Newsreader",Georgia,serif;font-size:14.5px;line-height:1.5}' +
-      '#mgc-consent .in{max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:18px;flex-wrap:wrap;justify-content:space-between}' +
-      '#mgc-consent p{margin:0;flex:1 1 320px;color:#cfc6b2}' +
-      '#mgc-consent a{color:#d2a64c}' +
+      '#mgc-consent{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#161513;color:#c9c4b8;' +
+      'border-top:1px solid #33302a;padding:15px 20px;font-family:"Inter",system-ui,-apple-system,sans-serif;font-size:14px;line-height:1.5}' +
+      '#mgc-consent .in{max-width:1000px;margin:0 auto;display:flex;align-items:center;gap:18px;flex-wrap:wrap;justify-content:space-between}' +
+      '#mgc-consent p{margin:0;flex:1 1 320px;color:#c9c4b8}' +
+      '#mgc-consent a{color:#f2eee4;text-underline-offset:2px}' +
       '#mgc-consent .btns{display:flex;gap:10px;flex:0 0 auto}' +
-      '#mgc-consent button{font-family:"Oswald",sans-serif;text-transform:uppercase;letter-spacing:.06em;font-weight:500;' +
-      'font-size:13px;border:none;padding:11px 20px;cursor:pointer}' +
-      '#mgc-accept{background:#9a6f1f;color:#fff}' +
-      '#mgc-accept:hover{background:#b4892f}' +
-      '#mgc-decline{background:transparent;color:#cfc6b2;border:1px solid #4c463a}' +
-      '#mgc-decline:hover{color:#fff;border-color:#736a58}' +
-      '#mgc-consent button:focus-visible{outline:3px solid #d2a64c;outline-offset:2px}' +
+      '#mgc-consent button{font-family:"Inter",system-ui,-apple-system,sans-serif;letter-spacing:.02em;font-weight:500;' +
+      'font-size:13.5px;border:none;border-radius:2px;padding:11px 22px;cursor:pointer}' +
+      '#mgc-accept{background:#f2eee4;color:#161513}' +
+      '#mgc-accept:hover{background:#ffffff}' +
+      '#mgc-decline{background:transparent;color:#c9c4b8;border:1px solid #4c463f}' +
+      '#mgc-decline:hover{color:#ffffff;border-color:#736a58}' +
+      '#mgc-consent button:focus-visible{outline:2px solid #f2eee4;outline-offset:2px}' +
       '@media(max-width:600px){#mgc-consent .btns{flex:1 1 100%}#mgc-consent button{flex:1}}';
     document.head.appendChild(css);
     var bar = document.createElement("div");
