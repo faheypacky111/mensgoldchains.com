@@ -3,7 +3,7 @@
  * (e.g. "mensgold-20"), paste it below, save, and re-upload THIS FILE.
  * Until then links work untagged (no commission is tracked).
  */
-window.AMAZON_TAG = "";   /* <-- e.g. "mensgold-20" */
+window.AMAZON_TAG = "mensgoldcha05-20";   /* <-- e.g. "mensgold-20" */
 document.addEventListener("DOMContentLoaded", function () {
   var tag = (window.AMAZON_TAG || "").trim();
   if (!tag) return;
