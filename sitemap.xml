@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://mensgoldchains.com/10k-vs-14k-vs-18k-gold.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/about.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/affiliate-disclosure.html</loc><lastmod>2026-07-02</lastmod><priority>0.3</priority></url>
@@ -17,10 +17,10 @@
   <url><loc>https://mensgoldchains.com/chain-length-for-pendant.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/chain-styles-guide.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/contact.html</loc><lastmod>2026-07-02</lastmod><priority>0.3</priority></url>
-  <url><loc>https://mensgoldchains.com/cuban-link-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://mensgoldchains.com/cuban-link-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority><image:image><image:loc>https://mensgoldchains.com/images/cuban-link-chain.jpg</image:loc></image:image></url>
   <url><loc>https://mensgoldchains.com/does-gold-tarnish.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://mensgoldchains.com/figaro-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://mensgoldchains.com/franco-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://mensgoldchains.com/figaro-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority><image:image><image:loc>https://mensgoldchains.com/images/figaro-chain.jpg</image:loc></image:image></url>
+  <url><loc>https://mensgoldchains.com/franco-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority><image:image><image:loc>https://mensgoldchains.com/images/franco-chain.jpg</image:loc></image:image></url>
   <url><loc>https://mensgoldchains.com/gold-chain-length-guide.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/gold-chain-scams.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/gold-chain-size-calculator.html</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
@@ -33,7 +33,7 @@
   <url><loc>https://mensgoldchains.com/how-to-clean-a-gold-chain.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/how-to-store-gold-chains.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/how-to-tell-if-gold-is-real.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
-  <url><loc>https://mensgoldchains.com/</loc><lastmod>2026-07-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://mensgoldchains.com/</loc><lastmod>2026-07-02</lastmod><priority>1.0</priority><image:image><image:loc>https://mensgoldchains.com/images/hero-rope-chain.jpg</image:loc></image:image></url>
   <url><loc>https://mensgoldchains.com/is-a-gold-chain-a-good-investment.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
   <url><loc>https://mensgoldchains.com/privacy.html</loc><lastmod>2026-07-02</lastmod><priority>0.3</priority></url>
   <url><loc>https://mensgoldchains.com/real-vs-fake-gold-checker.html</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
